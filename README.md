@@ -1,38 +1,10 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+## 💻 Projeto 01-fundamentos-reactjs-typescript
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+Projeto criado no curso ignite da Rocketseat, onde foi criado um projeto de feed utilizando TypeScript.
+
+Acesse o link para conferir o projeto: <a href="https://felipesouzab.github.io/01-fundamentos-reactjs-typescript/" target="_blank">01-fundamentos-reactjs-typescript</a>
 
 
-## 💻 Projeto
+PProject created in Rocketseat's ignite course, where a feed project was created using TypeScript.
 
-ignite-reactjs-01-fundamentos-react
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
-
+Access the link to check out the project: <a href="https://felipesouzab.github.io/01-fundamentos-reactjs-typescript/" target="_blank">01-fundamentos-reactjs-typescript</a>
