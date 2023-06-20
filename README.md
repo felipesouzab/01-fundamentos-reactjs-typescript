@@ -5,6 +5,6 @@ Projeto criado no curso ignite da Rocketseat, onde foi criado um projeto de feed
 Acesse o link para conferir o projeto: <a href="https://felipesouzab.github.io/01-fundamentos-reactjs-typescript/" target="_blank">01-fundamentos-reactjs-typescript</a>
 
 
-PProject created in Rocketseat's ignite course, where a feed project was created using TypeScript.
+Project created in Rocketseat's ignite course, where a feed project was created using TypeScript.
 
 Access the link to check out the project: <a href="https://felipesouzab.github.io/01-fundamentos-reactjs-typescript/" target="_blank">01-fundamentos-reactjs-typescript</a>
